@@ -21,24 +21,21 @@ and I have a will to help people with technology and software. 💻
 ### I have good knowledge in
 
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Python was my first programming language. I have been learning Python since 2017 and I still love how simple and quick is to create
-anything with python.
-
 ![Shell script badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-Shell script came right after Python when I started using Linux as my main OS in 2017. I really like the idea of creating simples scripts to
-automate something in my computer and shell is my first bet! 
-
 ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-I'm studing C since 2019. It's quite recent but I really fell in love with this language. Being a "low level" language really
-taught me a lot of incredible and useful things and made me understand a lot more about programming.
-
 ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX badge](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
-I also have some knowledge with markup languages as markdown and LaTeX, which I use as part of my routine to take notes and to write
+* Python was my first programming language. I have been learning Python since 2017 and I still love how simple and quick is to create
+anything with python.
+
+* Shell script came right after Python when I started using Linux as my main OS in 2017. I really like the idea of creating simples scripts to
+automate something in my computer and shell is my first bet! 
+
+* I'm studing C since 2019. It's quite recent but I really fell in love with this language. Being a "low level" language really
+taught me a lot of incredible and useful things and made me understand a lot more about programming.
+
+* I also have some knowledge with markup languages as markdown and LaTeX, which I use as part of my routine to take notes and to write
 my college articles.
 
 ### I'm still learning
