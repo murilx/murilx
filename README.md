@@ -57,8 +57,10 @@ or IDE I'll probably search for a vim plugin.
 I also use Eclispe IDE when I need to develop in java. ☕ 
 
 ### About my Linux love
-I'm using linux since 2017 as my daily OS. Between the distros I've used I can cite
+I'he been using linux since 2017 as my daily OS. Between the distros I've used I can cite
 
 ![Ubuntu badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Manjaro badge](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Fedora badge](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Void badge](https://img.shields.io/badge/Void_Linux-263238?style=for-the-badge&logo=linux&logoColor=white)
+![Slackware badge](https://img.shields.io/badge/Slackware-AB5CC5?style-for-the-badge&logo=linux&logoColor=white) 
