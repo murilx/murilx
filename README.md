@@ -19,6 +19,7 @@ Hi there! My name is Murilo Geraldini and I'm a brazilian computer science stude
 and I have a will to help people with technology and software. 💻
 
 You can also find me on
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adalberto-junior-7050a1202)](https://www.linkedin.com/in/murilo-geraldini-585066198/)  
 
 ### I have good knowledge in
